@@ -18,6 +18,7 @@ Software require in your **BaseOS**
 <img src="https://github.com/Rits333/Ansible-Docker-Apache/blob/master/images/1606485906240.png" alt="Config file" width="520" height="250">
 
 <img src="https://github.com/Rits333/Ansible-Docker-Apache/blob/master/images/Inked1606485879335_LI.jpg" alt="Inventory" width="560" height="250">
+**In this IP is of your os**
 
 
 
