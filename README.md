@@ -8,9 +8,9 @@
 
 Software require in your **BaseOS**
 
-1.Ansible
-2.pyhon
-3.Need to configure Ansible.cfg file and Inventroy file 
+1.Ansible.
+2.pyhon.
+3.Need to configure Ansible.cfg file and Inventroy file.
 
 **Images of config file and Inventory file**
 
